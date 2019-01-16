@@ -22,7 +22,7 @@ _testata='
   "@id": "http://kant.wikibib.it/_'$1'.json",
   "label": "titolo",
   "description": "descrizione",
-  "attribution": "Biblioteca digitale Intronati Siena",
+  "attribution": "Istituzione",
   "sequences": [
     {
       "@type": "sc:Sequence",
