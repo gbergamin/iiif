@@ -1,4 +1,4 @@
-#iiif tools
+# iiif_tools
 
 
  1. prende come input una *sottodirectory_parametro* contenente tif *non piramidali*
