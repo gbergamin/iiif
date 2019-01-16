@@ -2,7 +2,7 @@
 
 # questo script:
 # 1. prende come input una sottodirectory_parametro contenente tif
-# 2. converte le tif in tif piramidali in una nuova sottodirectory creata da questo scrit (_sottodirectory_paramentro)
+# 2. converte le tif in tif piramidali in una nuova sottodirectory creata da questo script (_sottodirectory_paramentro)
 # 3. crea il manifest (che va eventualmente editato successivamente per aggiungere metadati) con il nome __sottodirectory_parametro.json
 
 #tobedone: controllo parametro passato
